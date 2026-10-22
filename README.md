@@ -15,8 +15,9 @@ Read the full permission-required source-review terms in LICENSE, additional not
 
 You may read and locally test code for security review; new copyrightable original MV2 additions cannot be reused as a separate application or deployment without prior written permission from the legitimate copyright holders, subject to existing MIT rights and legal exceptions.
 
-## Why the unchanged exact Solidity source still mentions no production approval
-The source includes old pre-deployment comments such as CANDIDATE ONLY and no production approval. These are historical authoring comments retained to preserve exact source verification. Actual deployment has succeeded and been independently verified. The contract is DORMANT: initial Minter, VerificationManager and total minted supply are zero. The comments do not block transactions, and do not mean the on-chain contract failed.
+## Verified on-chain release status
+
+OneToken MV2 was successfully deployed on Polygon PoS Mainnet, chain ID 137, and verified as an exact source match on PolygonScan and Sourcify. Public mining and integrations remain disabled: Minter and VerificationManager roles are unset and the token's initial total supply is zero. The frozen source is preserved byte-for-byte for reproducible blockchain verification.
 
 The initial deployment does not mean mining, wallet integrations, payments or compliance approvals are live. No independent security audit, guaranteed profit, listing, liquidity or government affiliation is claimed.
 
