@@ -1,0 +1,13 @@
+OneToken MV2 — Notices
+Date: 23 October 2026
+Frozen source file: OneToken_MV2_RC_PRAGUE.sol
+Source SHA-256: 702bc3e1d38016e8f8b1831370f256a65b3fa964ca512a65d4271eac8aa7f5cc
+Solidity 0.8.37 / OpenZeppelin Contracts 5.7.0 / Prague / viaIR / optimizer 200.
+
+Source is available for independent inspection, security review and local validation. Reuse of copyright-protected original MV2 additions in a different product or deployment needs prior written permission from the legitimate rights holder, subject to the express inspection allowance and other exceptions described in LICENSE.
+
+All earlier and third-party MIT licenses continue independently, including OpenZeppelin Contracts v5.7.0:
+Copyright (c) 2016-2026 Zeppelin Group Ltd.
+Full text: THIRD-PARTY-AND-HISTORICAL-MIT-NOTICES.md.
+
+This notice does not identify a founder, individual, residence or country. It does not assert a government endorsement, trademark registration or third-party audit. No wallet in this notice is designated as a correspondence channel.

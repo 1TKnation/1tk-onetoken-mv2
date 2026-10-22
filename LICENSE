@@ -1,0 +1,27 @@
+OneToken MV2 — Source-Available License Notice
+Date: 23 October 2026
+SPDX in frozen Solidity source: UNLICENSED
+Covered Software means the original, independently protectable additions in the OneToken_MV2_RC_PRAGUE.sol release, and accompanying materials where the actual licensors have enforceable rights. Existing third-party and pre-existing MIT licensed components remain governed by their own terms.
+
+1. READ AND REVIEW
+Public reading, inspection, independent security review, and the reasonable local copies and local tests necessary solely for review and verification of the disclosed source are permitted. This limited review permission does not grant a right to redistribute, publish, monetize, or deploy the proprietary original parts as a separate product.
+
+Contract verification services and public blockchain explorers may store, reproduce and publicly display the Covered Software solely for source-code verification, indexing and security transparency, subject to their applicable platform terms. This permission does not grant any third party the right to commercially reuse or redeploy the protected original portions as a separate product.
+
+2. RESTRICTED REUSE OF NEW ORIGINAL WORK
+Except for components already available under a separate valid license, statutory rights and mandatory legal exceptions, NO license is granted to copy for redistribution, adapt for a separate project, publish, sublicense, sell, commercially exploit, or deploy legally protected original OneToken MV2 code in another project. Those uses require express prior written permission from the actual copyright holder(s) or their duly authorised representative. The permission should identify the work, recipient, permitted uses and period.
+
+3. OPEN-LICENSED MATERIAL EXCLUDED
+Pre-existing MIT-licensed code and independently MIT-licensed OpenZeppelin components retain their original licenses and permissions. No pre-existing MIT grant is rescinded or narrowed. Full upstream MIT notices and permission text are reproduced in THIRD-PARTY-AND-HISTORICAL-MIT-NOTICES.md.
+
+4. REQUESTING PERMISSION
+No project contact inbox is designated in this notice. A Polygon wallet address is not an inbox or proof of copyright ownership. A pseudonymous signing address may later be communicated separately for cryptographic verification of a written agreement signed by an authorised party.
+
+5. SCOPE
+This notice governs only original copyrightable contributions to the extent the licensors actually own enforceable rights. It does not restrict ideas, independent implementations, lawful reverse engineering, on-chain interaction with an already deployed smart contract, or rights granted under separate licenses and applicable law. No real-world identity, residence, nationality or corporate status is represented.
+
+6. DISCLAIMER OF WARRANTIES
+To the maximum extent permitted by applicable law, the Covered Software and its accompanying documentation are provided "AS IS" and "AS AVAILABLE", without warranties of any kind, whether express or implied, including merchantability, fitness for a particular purpose, non-infringement, security, accuracy, availability or uninterrupted and error-free operation. No guarantee is given that any security review will detect all defects. Third-party components remain subject to their respective license disclaimers.
+
+7. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, the authors and legitimate licensors of the Covered Software will not be liable for indirect, incidental, special, consequential, exemplary or punitive damages, or loss of profits, data, business or goodwill arising from use or inability to use the Covered Software, even if advised of the possibility. Nothing in these terms excludes or limits liability, rights or remedies that applicable law does not permit to be excluded or limited. These clauses do not replace any separately applicable financial, consumer or regulatory duties.
